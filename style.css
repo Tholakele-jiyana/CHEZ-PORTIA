@@ -1,0 +1,27 @@
+.header {
+    background-color: aqua;
+    border: 8px;
+    border-style: solid;
+    border-color: red;
+}
+
+.navbar {
+    background-color:  pink;
+    border: 8px;
+    border-style: solid;
+    border-color: red;  
+}
+
+.title {
+    background-color: purple;
+    border: 8px;
+    border-style: solid;
+    border-color: red;    
+}
+
+.menu1 {
+    background-color: green;
+    border: 8px;
+    border-style: solid;
+    border-color: red;    
+}
