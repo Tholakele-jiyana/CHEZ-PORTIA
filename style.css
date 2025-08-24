@@ -1,5 +1,7 @@
 .pageBackground {
-background-color: rgb(236, 122, 189);
+/* background-color: rgb(236, 122, 189); */
+background-image: url("Images/pink\ BG.jpg");
+background-size: cover;
 border: 3px;
 border-style: solid;
 border-color: rgb(212, 136, 210);
@@ -10,19 +12,18 @@ padding-left: 150px;
 }
 
 .header {
-    background-color: white;
-    border: 1px;
-    border-style: solid;
-    border-color: rgb(212, 136, 210);
+    background-image: url("Images/pink\ BG.jpg");
+    background-size: cover;
+    border: none;
     display: flex;
     justify-content: center;
 }
 
 .navbar {
-    background-color:  white;
+    background-color:  rgb(243, 191, 221);
     border: 1px;
     border-style: solid;
-    border-color: rgb(212, 136, 210); 
+    border-color: rgb(238, 159, 235); 
      display: flex;
     justify-content: space-between; 
 }
@@ -33,7 +34,9 @@ padding-left: 150px;
     border-style: solid;
     border-color: rgb(212, 136, 210);    
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
+    padding-left: 100px;
+    padding-right: 100px;
 }
 
 p {
