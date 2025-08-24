@@ -27,12 +27,6 @@ padding-left: 150px;
     justify-content: space-between; 
 }
 
-.title {
-    background-color: white;
-    border: 1px;
-    border-style: solid;
-    border-color: rgb(212, 136, 210);    
-}
 
 .menu1 {
     background-color: white;
