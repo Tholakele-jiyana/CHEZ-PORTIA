@@ -24,4 +24,15 @@
     border: 8px;
     border-style: solid;
     border-color: red;    
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu2 {
+    background-color: green;
+    border: 8px;
+    border-style: solid;
+    border-color: red;    
+    display: flex;
+    justify-content: space-between;
 }
