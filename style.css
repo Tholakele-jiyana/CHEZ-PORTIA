@@ -26,6 +26,8 @@ padding-left: 150px;
     border-color: rgb(238, 159, 235); 
      display: flex;
     justify-content: space-between; 
+    padding-left: 50px;
+    padding-right: 50px;
 }
 
 .menu1 {
