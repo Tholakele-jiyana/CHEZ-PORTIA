@@ -27,7 +27,6 @@ padding-left: 150px;
     justify-content: space-between; 
 }
 
-
 .menu1 {
     background-color: white;
     border: 1px;
@@ -41,9 +40,9 @@ p {
     font-style: italic;
 }
 
-#image1 {
+/* #image1 {
 background-color: aqua;
-}
+} */
 
 .menu2 {
     background-color: green;
