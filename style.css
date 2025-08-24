@@ -3,13 +3,17 @@
     border: 8px;
     border-style: solid;
     border-color: red;
+    display: flex;
+    justify-content: center;
 }
 
 .navbar {
     background-color:  pink;
     border: 8px;
     border-style: solid;
-    border-color: red;  
+    border-color: red; 
+     display: flex;
+    justify-content: space-between; 
 }
 
 .title {
