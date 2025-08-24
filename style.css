@@ -1,12 +1,12 @@
 .pageBackground {
-background-color: brown;
-border: 10px;
+background-color: rgb(236, 122, 189);
+border: 3px;
 border-style: solid;
-border-color: black;
+border-color: rgb(212, 136, 210);
 padding-top: 50px;
-padding-right: 100px;
-padding-bottom: 150px;
-padding-left: 200px;
+padding-right: 150px;
+padding-bottom: 50px;
+padding-left: 150px;
 }
 
 .header {
