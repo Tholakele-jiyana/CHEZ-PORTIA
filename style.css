@@ -37,6 +37,10 @@ padding-left: 150px;
     justify-content: space-evenly;
 }
 
+p {
+    font-style: italic;
+}
+
 #image1 {
 background-color: aqua;
 }
