@@ -10,35 +10,35 @@ padding-left: 150px;
 }
 
 .header {
-    background-color: aqua;
-    border: 8px;
+    background-color: white;
+    border: 1px;
     border-style: solid;
-    border-color: red;
+    border-color: rgb(212, 136, 210);
     display: flex;
     justify-content: center;
 }
 
 .navbar {
-    background-color:  pink;
-    border: 8px;
+    background-color:  white;
+    border: 1px;
     border-style: solid;
-    border-color: red; 
+    border-color: rgb(212, 136, 210); 
      display: flex;
     justify-content: space-between; 
 }
 
 .title {
-    background-color: purple;
-    border: 8px;
+    background-color: white;
+    border: 1px;
     border-style: solid;
-    border-color: red;    
+    border-color: rgb(212, 136, 210);    
 }
 
 .menu1 {
-    background-color: green;
-    border: 8px;
+    background-color: white;
+    border: 1px;
     border-style: solid;
-    border-color: red;    
+    border-color: rgb(212, 136, 210);    
     display: flex;
     justify-content: space-evenly;
 }
